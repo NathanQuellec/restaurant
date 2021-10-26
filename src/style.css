@@ -1,0 +1,17 @@
+
+#content{
+    display: flex;
+    font-size: 32px;
+    flex-wrap: wrap;
+    height: auto;
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    color: white;
+}

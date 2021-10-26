@@ -1,1 +1,3 @@
-console.log("It works just fine !")
+import createHomePage from './home'
+
+createHomePage();
